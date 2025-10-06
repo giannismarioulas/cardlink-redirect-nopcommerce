@@ -23,7 +23,7 @@ No live credentials are included.
 
 ## 🇬🇷 Cardlink Redirect Plugin για NopCommerce
 
-Ελαφρύ και επαγγελματικό πρόσθετο πληρωμών για το **NopCommerce 4.70+**, που συνδέεται με το **Cardlink** μέσω ασφαλούς ανακατεύθυνσης (redirect).
+Ελαφρύ και επαγγελματικό plugin πληρωμών για το **NopCommerce 4.70+**, που συνδέεται με το **Cardlink** μέσω ασφαλούς ανακατεύθυνσης (redirect).
 
 ### ✳️ Χαρακτηριστικά
 
