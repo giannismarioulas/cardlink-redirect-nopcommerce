@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Nop.Plugin.Payments.CardlinkRedirect</AssemblyName>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Nop.Core" Version="4.70.0" />
+    <PackageReference Include="Nop.Services" Version="4.70.0" />
+    <PackageReference Include="Nop.Web.Framework" Version="4.70.0" />
+  </ItemGroup>
+
+</Project>

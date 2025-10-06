@@ -1,0 +1,19 @@
+# Ignore build folders
+bin/
+obj/
+.vs/
+
+# Ignore user and config files
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore publish and temp files
+publish/
+*.tmp
+
+# Ignore sensitive data
+appsettings*.json
+DataProtectionKeys/
+db_backups/

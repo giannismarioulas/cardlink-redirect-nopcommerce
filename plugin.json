@@ -1,0 +1,12 @@
+{
+  "group": "Payments",
+  "friendlyName": "Cardlink Redirect Payment",
+  "systemName": "Payments.CardlinkRedirect",
+  "version": "1.0.0-beta",
+  "supportedVersions": [
+    "4.70"
+  ],
+  "author": "Neutral",
+  "displayOrder": 1,
+  "installable": true
+}

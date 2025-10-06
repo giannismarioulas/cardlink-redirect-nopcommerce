@@ -1,0 +1,18 @@
+{
+  "Group": "Payment methods",
+  "FriendlyName": "Cardlink Payment",
+  "SystemName": "Payments.Cardlink",
+  "Version": "1.00",
+  "SupportedVersions": [
+    "4.80"
+  ],
+  "Author": "MaariouLab",
+  "DisplayOrder": 1,
+  "FileName": "Payments.Cardlink.dll",
+  "friendlyName": "Cardlink Redirect Payment",
+  "systemName": "Payments.CardlinkRedirect",
+  "version": "1.0.0-beta",
+  "supportedVersions": [
+    "4.70"
+  ]
+}
